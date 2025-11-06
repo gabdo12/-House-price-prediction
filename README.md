@@ -1,4 +1,4 @@
-##Summary:
+##Summary:##
 
 This project aims to predict house prices using a Linear Regression model.
 The model was trained on data containing features such as:
